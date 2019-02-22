@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ulkeler">
-        <item name="USA"> Amerika</item>
+        <item name="USA" value="usa"> Amerika</item>
         <item name="TR"> Türkiye</item>
         <item name="UK"> İngiltere</item>
         <item name="POL"> Polonya</item>
